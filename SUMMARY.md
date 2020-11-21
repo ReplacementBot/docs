@@ -1,18 +1,25 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [What is ReplacementBot](README.md)
 
-## Setup the bot
+## 📡 Setup the bot
 
 * [Self-Hosting](setup-the-bot/untitled.md)
-* [Begginier Guide](setup-the-bot/begginier-guide.md)
-* [Technical Guide](setup-the-bot/technical-guide.md)
 
-## Using The Bot
+## ✨ Using The Bot
 
 * [Commands](using-the-bot/commands.md)
+* [Built-in fetchers](using-the-bot/built-in-fetchers.md)
 
-## Creating Custom Fetchers
+## ⚙️ Development
 
-* [Untitled](creating-custom-fetchers/untitled.md)
+* [Fetchers Introduction](development/fetchers-introduction.md)
+* [Fetcher Guidelines](development/fetcher-guidelines.md)
+* [How to Create a Fetcher](development/create-and-fetcher.md)
+
+## ✋ contribute
+
+* [Contributing Guidelines](contribute/contributing-guidelines.md)
+* [Report a Bug](https://github.com/ReplacementBot/ReplacementBot)
+* [Suggest a Feature](https://github.com/ReplacementBot/ReplacementBot)
 

@@ -1,12 +1,14 @@
 ---
-description: Meet the ReplacementBot
+description: Get to know each other with the ReplacementBot
 ---
 
-# Introduction
+# What is ReplacementBot
 
-### About
+**ReplacementBot** is a feature-rich discord bot to fetch, parse, and display school substitutions right on your discord server!
 
-Meet the ReplacementBot a Discord bot made to make your school life easier. The Bot automatically fetches substitutions from your school website and shows them right on your discord server.
+## Meet the ReplacementBot
+
+* 🧩 **Integrate with everything** that is online. ReplacementBot supports an ever-expanding base of fetchers. You can always create fetcher and submit it to the bot!
 
 ### Invite The Bot to your server
 
