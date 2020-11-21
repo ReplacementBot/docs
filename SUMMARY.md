@@ -4,7 +4,7 @@
 
 ## 📡 Setup the bot
 
-* [Self-Hosting](setup-the-bot/untitled.md)
+* [Self-Hosting](setup-the-bot/self-hosting.md)
 
 ## ✨ Using The Bot
 
