@@ -16,7 +16,7 @@ Unfortunately, the current version of the bot doesn't allow for us to host one p
 
 ### Self-Host the Bot
 
-{% page-ref page="setup-the-bot/self-hosting.md" %}
+{% page-ref page="setup-the-bot/own-instancie-setup.md" %}
 
 
 

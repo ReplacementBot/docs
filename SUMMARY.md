@@ -4,12 +4,21 @@
 
 ## 📡 Setup the bot
 
-* [Self-Hosting](setup-the-bot/self-hosting.md)
+* [Own Instance Setup](setup-the-bot/own-instancie-setup.md)
+* [Setup Discord App](https://discordpy.readthedocs.io/en/latest/discord.html)
+* [Manual Setup](setup-the-bot/manual-setup.md)
+* [Cloud Development with Gitpod](setup-the-bot/cloud-development-with-gitpod.md)
+* [Hosting with Heroku](setup-the-bot/hosting-with-heroku.md)
+* [Hosting with PM2](setup-the-bot/hosting-with-pm2.md)
 
 ## ✨ Using The Bot
 
 * [Commands](using-the-bot/commands.md)
 * [Built-in fetchers](using-the-bot/built-in-fetchers.md)
+
+## 🗳️ configure the bot
+
+* [Untitled](configure-the-bot/untitled.md)
 
 ## ⚙️ Development
 
